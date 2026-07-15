@@ -1,0 +1,4 @@
+# Requirements for CodeInsight AI
+# Phase 2 — Enhanced User Interface
+streamlit>=1.36.0
+streamlit-ace>=0.1.1
